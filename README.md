@@ -7,9 +7,13 @@ All the Graph Data are Available at: https://pytorch-geometric.readthedocs.io/en
 
 # Requirements
 Python 3
+
 numpy 1.19.4
+
 networkx 2.5
+
 torch_geometric 2.1.0
+
 gnuplotlib 0.38
 
 # Run the Code
